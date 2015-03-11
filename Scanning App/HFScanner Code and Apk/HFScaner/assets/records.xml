@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        	<key>BARCODEID</key>
+        	<string>826003901800</string>
+			<key>NAME</key>
+			<string>Naveed Hanif</string>
+			<key>PHOTOGRAPH</key>
+			<string>c.jpg</string>
+			<key>DOB</key>
+			<string>7-12-1982</string>
+			<key>REGION</key>
+			<string>MORDEN</string>
+			<key>ADDRESS</key>
+			<string>46 theholt</string>
+			<key>CITY</key>
+			<string>London</string>
+		</dict>
+		  <dict>
+        	<key>BARCODEID</key>
+        	<string>05770052</string>
+			<key>NAME</key>
+			<string>Second</string>
+			<key>PHOTOGRAPH</key>
+			<string>d.jpg</string>
+			<key>DOB</key>
+			<string>1-1-1980</string>
+			<key>REGION</key>
+			<string>xyz</string>
+			<key>ADDRESS</key>
+			<string>abc</string>
+			<key>CITY</key>
+			<string>Lahore</string>
+		</dict>
+		  <dict>
+        	<key>BARCODEID</key>
+        	<string>5060002830376</string>
+			<key>NAME</key>
+			<string>third</string>
+			<key>PHOTOGRAPH</key>
+			<string>b.jpg</string>
+			<key>DOB</key>
+			<string>1-1-1980</string>
+			<key>REGION</key>
+			<string>xyz</string>
+			<key>ADDRESS</key>
+			<string>abc</string>
+			<key>CITY</key>
+			<string>Lahore</string>
+		</dict>
+		  <dict>
+        	<key>BARCODEID</key>
+        	<string>042000062008</string>
+			<key>NAME</key>
+			<string>forurth</string>
+			<key>PHOTOGRAPH</key>
+			<string>a.jpg</string>
+			<key>DOB</key>
+			<string>1-1-1980</string>
+			<key>REGION</key>
+			<string>xyz</string>
+			<key>ADDRESS</key>
+			<string>abc</string>
+			<key>CITY</key>
+			<string>Lahore</string>
+		</dict>
+</array>
+</plist> 
